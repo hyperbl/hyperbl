@@ -21,10 +21,10 @@ Hello, I'm hyperbl, an undergraduate student from China.
 
 I major in Electronic Engineering, but... Anyway, here's my GitHub stats card:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperbl&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](./profile/stats.svg)
 
 And the top languages I have been using are listed as follows:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperbl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)
 
 Just a nobody.
