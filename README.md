@@ -21,10 +21,10 @@ Hello, I'm hyperbl, an undergraduate student from China.
 
 I major in Electronic Engineering, but... Anyway, here's my GitHub stats card:
 
-[![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](./profile/stats.svg)
 
 And the top languages I have been using are listed as follows:
 
-[![Top Langs](./profile/top-langs.svg)
+![Top Langs](./profile/top-langs.svg)
 
 Just a nobody.
